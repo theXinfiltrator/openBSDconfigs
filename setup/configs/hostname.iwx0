@@ -1,0 +1,4 @@
+join "ACT108428977523" wpakey "24927521"
+dhcp
+inet6 autoconf
+up powersave

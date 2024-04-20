@@ -1,0 +1,1 @@
+openBSD config files
